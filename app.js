@@ -1,4 +1,4 @@
-const auth = process.env.API_KEY;
+const auth = API_KEY;
 
 const gallery = document.querySelector('.gallery');
 const searchInput = document.querySelector('.search-input');
